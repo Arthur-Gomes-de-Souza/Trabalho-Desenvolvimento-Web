@@ -6,6 +6,7 @@ body {
 
 header {
     background: #232C33;
+    color: white;
     text-align: center;
     padding: var(--standart-padding);
 }
