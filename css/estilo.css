@@ -45,7 +45,8 @@ h1 {
 }
 
 h2 {
-    color: #FF570A;
+    color: black;
+    font-weight: bold;
     padding: 5px;
 }
 
