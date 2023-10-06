@@ -36,7 +36,11 @@ a {
 }
 
 a:hover {
-    color: rgb(19, 19, 19);
+    color: rgb(25, 25, 139);
+}
+
+footer a:hover {
+    color: yellow;
 }
 
 h1 {
@@ -64,4 +68,8 @@ h2 {
 
 .nav li {
     padding: 5px;
+}
+
+#sobre-mim {
+    background: white;
 }
